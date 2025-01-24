@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head role="banner">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>01 - Form</title>
@@ -9,8 +9,10 @@
   <body>
     <h1>01 - Form</h1>
     <form action="/submit">
-      <span>Name</span>
-      <input type="text" />
+      <label>
+        <span>Name</span>
+        <input type="text" />
+      </label>
       <br /><br />
       <label>
         Email
@@ -18,9 +20,12 @@
       </label>
       <br /><br />
       <span>Favorite Character</span>
-      <div><input type="radio" id="spongebob" />Spongebob</div>
-      <div><input type="radio" id="patrick" />Patrick</div>
-      <div><input type="radio" id="sandy" />Sandy</div>
+      <div><input type="radio" id="spongebob" />Spongebob <label for="spongebob">Sandy</label> </div>
+      <div><input type="radio" id="patrick" />Patrick <label for="patrick">Sandy</label> </div></form></body>
+      <div><input type="radio" id="sandy" />Sandy <label for="sandy">Sandy</label> </div>
+      
+      
+      
       <br />
       <button>Submit</button>
     </form>
