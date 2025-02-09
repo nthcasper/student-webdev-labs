@@ -14,4 +14,4 @@ One of the most helpful parts was learning how screen readers interpret forms an
 
 ### CSS
 
-Enter your reflections on this section here.
+I was able to complete most of the exercises on my own, but I referred to resources when working with specificity and layout. The specificity exercise was particularly helpful because it made me think more critically about how different selectors interact and which rules take precedence. Understanding how ID selectors, classes, attributes, and pseudo-elements contribute to specificity helped clarify why certain styles override others.
