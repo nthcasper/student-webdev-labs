@@ -8,7 +8,9 @@ While the exercises were well-structured, I think a bit more explanation on the 
 
 ### Accessibility
 
-Enter your reflections on this section here.
+While working on this exercise, I learned how important it is to structure forms properly for accessibility. I realized that simply adding labels is not enough—using for attributes, grouping related inputs with <fieldset>, and ensuring unique name attributes for radio buttons all play a role in making a form more user-friendly.
+
+One of the most helpful parts was learning how screen readers interpret forms and how small changes, like using <legend> for radio groups, can improve navigation. I also found that using the correct input types, like type="email", helps with both accessibility and usability.
 
 ### CSS
 
