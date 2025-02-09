@@ -8,10 +8,13 @@ While the exercises were well-structured, I think a bit more explanation on the 
 
 ### Accessibility
 
-While working on this exercise, I learned how important it is to structure forms properly for accessibility. I realized that simply adding labels is not enough—using for attributes, grouping related inputs with <fieldset>, and ensuring unique name attributes for radio buttons all play a role in making a form more user-friendly.
+While working on this exercise, I learned how important it is to structure forms properly for accessibility. I realized that simply adding labels is not enough—using for attributes, grouping related inputs with fieldset, and ensuring unique name attributes for radio buttons all play a role in making a form more user-friendly.
 
-One of the most helpful parts was learning how screen readers interpret forms and how small changes, like using <legend> for radio groups, can improve navigation. I also found that using the correct input types, like type="email", helps with both accessibility and usability.
+One of the most helpful parts was learning how screen readers interpret forms and how small changes, like using legend for radio groups, can improve navigation. I also found that using the correct input types, like type="email", helps with both accessibility and usability.
 
 ### CSS
 
 I was able to complete most of the exercises on my own, but I referred to resources when working with specificity and layout. The specificity exercise was particularly helpful because it made me think more critically about how different selectors interact and which rules take precedence. Understanding how ID selectors, classes, attributes, and pseudo-elements contribute to specificity helped clarify why certain styles override others.
+
+### Flexbox
+Working on these Flexbox exercises helped me understand how to create flexible, responsive layouts efficiently. I learned how different properties like justify-content, align-items, flex-grow, and flex-wrap work together to control positioning and spacing within a container.
