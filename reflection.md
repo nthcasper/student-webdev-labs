@@ -18,3 +18,6 @@ I was able to complete most of the exercises on my own, but I referred to resour
 
 ### Flexbox
 Working on these Flexbox exercises helped me understand how to create flexible, responsive layouts efficiently. I learned how different properties like justify-content, align-items, flex-grow, and flex-wrap work together to control positioning and spacing within a container.
+
+### BootStrap
+These Bootstrap exercises helped me understand how to use cards, grids, and modals effectively. The card exercise showed me how to structure content using Bootstrap’s built-in classes. The grid exercises taught me how to create responsive layouts that adjust to different screen sizes. The modal exercise was a great way to see how Bootstrap makes pop-ups easy to use without much coding. Overall, these exercises made me more confident in using Bootstrap, and I want to explore more ways to customize designs.
