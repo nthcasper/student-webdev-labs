@@ -21,3 +21,8 @@ Working on these Flexbox exercises helped me understand how to create flexible, 
 
 ### BootStrap
 These Bootstrap exercises helped me understand how to use cards, grids, and modals effectively. The card exercise showed me how to structure content using Bootstrap’s built-in classes. The grid exercises taught me how to create responsive layouts that adjust to different screen sizes. The modal exercise was a great way to see how Bootstrap makes pop-ups easy to use without much coding. Overall, these exercises made me more confident in using Bootstrap, and I want to explore more ways to customize designs.
+
+### Javascript 
+This set of exercises helped me connect the dots between different parts of JavaScript, from basic string and array manipulation to working with the DOM and fetching external data. One of the biggest takeaways for me was seeing how these techniques build on each other. For example, working with arrays and objects makes the fetch exercise easier, and knowing how to manipulate the DOM makes the API data actually useful for users.
+
+I feel more confident now moving between pure logic problems (like the object and functional exercises) and interactive browser work (like the DOM and fetch exercises). Moving forward, I want to keep practicing by combining these techniques into small projects, like building a mini app that fetches and displays data dynamically.
