@@ -26,3 +26,6 @@ These Bootstrap exercises helped me understand how to use cards, grids, and moda
 This set of exercises helped me connect the dots between different parts of JavaScript, from basic string and array manipulation to working with the DOM and fetching external data. One of the biggest takeaways for me was seeing how these techniques build on each other. For example, working with arrays and objects makes the fetch exercise easier, and knowing how to manipulate the DOM makes the API data actually useful for users.
 
 I feel more confident now moving between pure logic problems (like the object and functional exercises) and interactive browser work (like the DOM and fetch exercises). Moving forward, I want to keep practicing by combining these techniques into small projects, like building a mini app that fetches and displays data dynamically.
+
+### CSS Grid 
+The CSS Grid exercises helped me get comfortable with structuring layouts using grid-template-columns/rows and adjusting them with media queries. Naming grid areas made things clearer, and I liked seeing how layouts shift at different screen sizes. 
